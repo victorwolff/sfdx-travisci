@@ -1,5 +1,5 @@
 sudo: true
-os: windows
+os: linux
 cache: false
 
 env:
